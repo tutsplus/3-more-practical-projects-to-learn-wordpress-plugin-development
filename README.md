@@ -1,4 +1,4 @@
-# [Introduction to WordPress Plugin Development][published url]
+# [3 More Practical Projects to Learn Plugin Development][published url]
 ## Instructor: [Rachel McCollin][instructor url]
 
 
@@ -17,5 +17,5 @@ These are source files for the Envato Tuts+ course: [Introduction to WordPress P
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses/introduction-to-wordpress-plugin-development
+[published url]: https://code.tutsplus.com/courses/3-more-practical-projects-to-learn-wordpress-plugin-development
 [instructor url]: https://tutsplus.com/authors/rachel-mccollin
